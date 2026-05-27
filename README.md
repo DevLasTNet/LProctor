@@ -10,4 +10,4 @@ Goal: Providing a safe, toxic-free environment for players.
 
 Expect the first build to be available soon!
 
-![Status](https://img.shields.io/badge/Status-Under_Development-yellow)
+[![Support](https://img.shields.io/badge/Discord-Join_Support-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/example)
